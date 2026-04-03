@@ -1,6 +1,6 @@
 🚀 I built this so you don’t have to.
 
-A complete Twilio-based smart call routing system with voicemail fallback, call screening, and modular function architecture — ready to deploy and customize.
+A complete Twilio-based smart call routing system with voicemail fallback, call screening, and modular function architecture ready to deploy and customize.
 
 ⭐ If this project helps you, consider giving it a star!
 
